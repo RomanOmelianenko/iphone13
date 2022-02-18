@@ -1,2 +1,2 @@
 # iphone13
-## smooth-scroll - кроссбраузерность (npm seamless-scroll-polyfill)
+### smooth scroll - кроссбраузерность (npm seamless-scroll-polyfill)
